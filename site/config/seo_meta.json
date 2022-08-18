@@ -1,19 +1,19 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "ABT TECH | Powered by Maliek News",
+  "titleTemplate": "%s - Maliek News",
+  "description": "Aball Store Commerce - https://www.adball.tech/amp/",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Maliek News | Powered by Aball Tech Commerce",
+    "description": "Next.js Commerce - https://org.adball.tech",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://www.adball.tech",
+    "site_name": "Maliek News ",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Store Commerce"
       }
     ]
   },
